@@ -4,7 +4,7 @@ Hi 👋 My name is Sudip Kumar Mandal
 Web Developer and ML enthusiast
 -------------------------------
 
-I've been learning to code for 2 years. I started with programming in C++ and dipping into web development, and I have really found a passion for backend development, React, and software system design. Additionally, I'm deeply fascinated by the advent of new technologies and machine learning, constantly exploring and experimenting with emerging trends to broaden my skillset and drive innovation in the tech industry.
+I've been learning to code for some time now. I started with programming in C++ and dipping into web development, and I have really found a passion for backend development, React, and software system design. Additionally, I'm deeply fascinated by the advent of new technologies and machine learning, constantly exploring and experimenting with emerging trends to broaden my skillset and looking make valuable contributions to the open source community.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [skmxyt@gmail.com](mailto:skmxyt@gmail.com)
