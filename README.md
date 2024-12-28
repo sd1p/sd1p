@@ -1,9 +1,6 @@
 Hi 👋 My name is Sudip Kumar Mandal
 ===================================
 
-Web Developer and ML enthusiast
--------------------------------
-
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [skmxyt@gmail.com](mailto:skmxyt@gmail.com)
