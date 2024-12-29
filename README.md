@@ -4,7 +4,6 @@ Hi 👋 My name is Sudip Kumar Mandal
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [skmxyt@gmail.com](mailto:skmxyt@gmail.com)
-* 🧠  I'm learning Go Lang
 * ⚡  My hobbies are building stuff, reading manga and listening to music and podcasts
 
 
